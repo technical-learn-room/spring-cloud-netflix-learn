@@ -1,4 +1,4 @@
-package com.me.servicea;
+package com.me.service_one;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

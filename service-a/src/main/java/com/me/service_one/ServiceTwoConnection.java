@@ -1,4 +1,4 @@
-package com.me.servicea;
+package com.me.service_one;
 
 import retrofit2.Call;
 import retrofit2.http.Body;

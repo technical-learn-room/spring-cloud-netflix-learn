@@ -1,4 +1,4 @@
-package com.me.servicea;
+package com.me.service_one;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
