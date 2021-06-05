@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: service-one
+
+server:
+  port: 6181
+
+eureka:
+  instance:
+    instance-id: service-001
+  client:
+    service-url:
+      defaultZone: http://localhost:6180/service/
