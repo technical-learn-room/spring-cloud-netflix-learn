@@ -1,4 +1,4 @@
-package com.me.service_one;
+package com.me.one;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;

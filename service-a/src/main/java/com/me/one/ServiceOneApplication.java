@@ -1,4 +1,4 @@
-package com.me.service_one;
+package com.me.one;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
